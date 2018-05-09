@@ -1,8 +1,9 @@
 socialbrothers
 ===
 
-* Contributors: Tom van Lierop
-* Tags: Responsive design, Bootstrap grid, Starter Theme
+Contributors: Tom van Lierop
+
+Tags: Responsive design, Bootstrap grid, Starter Theme
 
 * Requires at least: 4.5
 * Tested up to: 4.8
