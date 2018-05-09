@@ -25,13 +25,10 @@ Installation
 2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
-Frequently Asked Questions
+plugins
 ===
 
-= Does this theme require any plugins? =
-
 This theme uses Advanced Custom Fields for fields in the admin panel and Contact Form 7 for Email forms.
-
 
 Changelog
 ===
