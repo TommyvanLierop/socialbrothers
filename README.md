@@ -4,11 +4,11 @@ socialbrothers
 Contributors: Tom van Lierop
 Tags: Responsive design, Bootstrap grid, Starter Theme
 
-Requires at least: 4.5
-Tested up to: 4.8
-Stable tag: 1.0.0
-License: GNU General Public License v2 or later
-License URI: LICENSE
+* Requires at least: 4.5
+* Tested up to: 4.8
+* Stable tag: 1.0.0
+* License: GNU General Public License v2 or later
+* License URI: LICENSE
 
 A starter theme called socialbrothers.
 
