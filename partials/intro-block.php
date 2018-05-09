@@ -1,7 +1,11 @@
 <div class="intro-block">
-  <h1 class="style-first-word"><?php the_field('intro_title'); ?></h1>
+  <?php if (get_field('intro_title')){ ?>
+    <h1 class="style-first-word"><?php the_field('intro_title'); ?></h1>
+  <?php } ?>
 
   <hr>
 
-  <?php the_field('intro_text'); ?>
+  <?php if (get_field('intro_text')) {
+    the_field('intro_text');
+  } ?>
 </div>
